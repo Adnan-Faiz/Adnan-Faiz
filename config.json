@@ -1,17 +1,19 @@
 {
   "username": "Adnan-Faiz",
   "name": "ADNAN FAIZ",
+  "name_lines": [
+    "ADNAN",
+    "FAIZ"
+  ],
   "initials": "AF",
   "katakana": "アドナン",
   "title": "PYTHON DEV // DATA ENGINEER // IEEE AUTHOR",
   "tagline": [
     "5+ years turning manual work into reliable code: backends, data pipelines, AI.",
-    "currently_building: 5G small cells + AI platforms @ ACES R&D"
+    "status: open to software development & data engineering roles"
   ],
   "class": "NETRUNNER",
   "hud_right": "SECTOR: RIYADH",
-  "hero_photo": "",
-  "photo": "",
   "skills": [
     {
       "name": "PYTHON.CORE",
@@ -38,52 +40,153 @@
       "level": 72
     }
   ],
-  "projects": [
+  "gigs": [
     {
       "tag": "MAIN GIG",
-      "title": "Fault Management System",
-      "desc": "Telecom ops · FastAPI · PostgreSQL",
-      "url": "",
-      "cta": "CLASSIFIED // ACES"
+      "title": "Data / Software Engineering",
+      "desc": "Python · SQL · PySpark · FastAPI",
+      "loot": "NEXT DROP: LOADING",
+      "loading": true
     },
     {
       "tag": "SIDE GIG",
-      "title": "NeuraLarity AI",
-      "desc": "YOLO11 · CLIP · Whisper · Flask",
-      "url": "",
-      "cta": "CLASSIFIED // ACES"
+      "title": "Data Automation",
+      "desc": "Python reports + alert monitors",
+      "loot": "1 DAY -> SECONDS"
     },
     {
       "tag": "BOUNTY",
-      "title": "5G O-RAN Small Cell",
-      "desc": "srsRAN · Split 7.2 · 2 IEEE papers",
-      "url": "",
-      "cta": "IEEE ISNCC 2026"
+      "title": "Field-Ops Platforms",
+      "desc": "Full-stack fault dispatch, SLA, GIS",
+      "loot": "~10K USER SCOPE"
+    },
+    {
+      "tag": "CONTRACT",
+      "title": "Applied AI & Vision",
+      "desc": "Detection, OCR, speech-to-text",
+      "loot": "81% mAP@50"
+    },
+    {
+      "tag": "RAID",
+      "title": "5G O-RAN R&D",
+      "desc": "Small-cell integration, RAN tests",
+      "loot": "O-RAN SPLIT 7.2"
+    },
+    {
+      "tag": "LEGACY",
+      "title": "Enterprise Oracle",
+      "desc": "PL/SQL, APEX, Forms & Reports",
+      "loot": "FINANCE P2P CYCLE"
+    }
+  ],
+  "missions": [
+    {
+      "when": "2016–2020",
+      "lvl": "LVL 01 · TRAINING",
+      "role": "B.Tech CSE",
+      "org": "JNTU Hyderabad"
+    },
+    {
+      "when": "2021",
+      "lvl": "LVL 02 · SPAWN",
+      "role": "Junior Developer",
+      "org": "Beraten Software"
+    },
+    {
+      "when": "2021–2023",
+      "lvl": "LVL 03 · GRIND",
+      "role": "PL/SQL Developer",
+      "org": "Tata Consultancy"
+    },
+    {
+      "when": "2024–NOW",
+      "lvl": "LVL 04 · ACTIVE",
+      "role": "IT Engineer · R&D",
+      "org": "ACES · Riyadh",
+      "current": true
+    },
+    {
+      "when": "NEXT",
+      "lvl": "LVL 05 · NEXT MISSION",
+      "role": "??",
+      "org": "open to offers",
+      "next": true
     }
   ],
   "papers": [
     {
       "venue": "ISNCC 2026",
-      "title": "Intelligent Near-RT RIC xApp for 5G O-RAN Small Cells: Energy-Efficient PRB Optimization with E2 Control",
-      "url": ""
+      "title": "Intelligent Near-RT RIC xApp for 5G O-RAN Small Cells: Energy-Efficient PRB Optimization with E2 Control"
     },
     {
       "venue": "ISNCC 2026",
-      "title": "MORAN-Enabled O-RAN Split 7.2 Based 5G Indoor Small Cell Using srsRAN and a Custom RF Front End",
-      "url": ""
+      "title": "MORAN-Enabled O-RAN Split 7.2 Based 5G Indoor Small Cell Using srsRAN and a Custom RF Front End"
     },
     {
       "venue": "IEMECON 2021",
-      "title": "Encrypting and Predicting Medical Diagnosis Data",
-      "url": ""
+      "title": "Encrypting and Predicting Medical Diagnosis Data"
     }
   ],
-  "shard_stats": "3 PAPERS · 4 SAIP DESIGNS · 5 CITATIONS",
-  "extra_md": "<samp>[+]</samp> Named designer on **4 SAIP-registered 5G small-cell industrial designs** (SA 20766 · SA 20825 · SA 20864 · SA 21000)",
-  "links": {
-    "portfolio": "",
-    "linkedin": "",
-    "ieee": "",
-    "email": ""
-  }
+  "designs": {
+    "venue": "SAIP 2026",
+    "title": "4 Industrial Designs: SA 20766 · SA 20825 · SA 20864 · SA 21000"
+  },
+  "shard_stats": "[ CLICK TO OPEN IEEE PROFILE ]",
+  "ieee_profile": "https://ieeexplore.ieee.org/author/37089283025",
+  "achievements": [
+    {
+      "rarity": "LEGENDARY",
+      "title": "IEEE Citations",
+      "by": "IEMECON 2021 paper",
+      "when": "2021+"
+    },
+    {
+      "rarity": "EPIC",
+      "title": "Certificate of Appreciation",
+      "by": "Chief Operations Officer",
+      "when": "2025"
+    },
+    {
+      "rarity": "EPIC",
+      "title": "Highest Performance Band",
+      "by": "Annual performance rating",
+      "when": "2021–23"
+    },
+    {
+      "rarity": "RARE",
+      "title": "Data Science with Python",
+      "by": "Edureka",
+      "when": "2023"
+    },
+    {
+      "rarity": "RARE",
+      "title": "Peer-to-Peer Trainer",
+      "by": "New-joiner onboarding",
+      "when": "2021–23"
+    },
+    {
+      "rarity": "RARE",
+      "title": "Copper & Fiber Cabling",
+      "by": "Leviton · 8 BICSI CECs",
+      "when": "2026"
+    },
+    {
+      "rarity": "COMMON",
+      "title": "Machine Learning Intro",
+      "by": "Coursera",
+      "when": "2022"
+    },
+    {
+      "rarity": "COMMON",
+      "title": "Software Eng. Virtual Exp.",
+      "by": "JPMorgan Chase & Co.",
+      "when": "2020"
+    },
+    {
+      "rarity": "COMMON",
+      "title": "Python Programming",
+      "by": "INetSolv Solutions",
+      "when": "2019"
+    }
+  ]
 }
